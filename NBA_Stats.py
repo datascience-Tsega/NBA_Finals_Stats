@@ -21,4 +21,4 @@ df3.index = range (0,76,1) #reset index
 
 for i in range(4,8):
     no_of_games = float(df3[df3.Total_Games ==i]['Total_Games'].size)/76.
-    print "Percent of %i-game NBA finals series: "%(i)+'{percent:.1%}'.format(percent = no_of_games)
+    print "NBA finals series went to %i-games, "%(i)+'{percent:.1%}'.format(percent = no_of_games)+" of the time"
