@@ -5,10 +5,10 @@ I only looked at the years 1950 to 2016.
 
 Results:
 
-Percent of 4-game NBA finals series: 10.5% 
+NBA finals series went to 4-games, 10.5% of the time
 
-Percent of 5-game NBA finals series: 25.0% 
+NBA finals series went to 5-games, 25.0% of the time
 
-Percent of 6-game NBA finals series: 35.5% 
+NBA finals series went to 6-games, 35.5% of the time
 
-Percent of 7-game NBA finals series: 28.9% 
+NBA finals series went to 7-games, 28.9% of the time
